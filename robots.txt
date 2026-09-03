@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://n8zyc889zs-cpu.github.io/Oguz-Acikel/sitemap.xml
